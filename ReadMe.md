@@ -3,7 +3,7 @@
   
   # 🎓 Cai Jiewang, Ph.D.
   **`student | [WHU]`**  
-  *"Research Dederated learning"*
+  *"Research Federated learning"*
   
   [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:caijiewnag1@163.com)
   [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=TLKMOKEAAAAJ&hl=zh-CN)

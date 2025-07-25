@@ -18,25 +18,14 @@
 
 **Applications**:  
 🏥 Privacy-preserving  
-📱 Edge Computing  
 
 ---
 
-## 📚 Selected Publications
-1. **Cai J.**, et al. (2023).  
-   *FedDP: Federated Learning with Dynamic Differential Privacy*  
-   📍 IEEE Transactions on Knowledge and Data Engineering  
-   [DOI](https://doi.org/xx.xxxx/TKDE.2023.xxxxxx) | [PDF]()
-
-2. **Cai J.**, et al. (2022).  
-   *Adaptive Model Aggregation for Hierarchical Federated Learning*  
-   📍 NeurIPS  
-   [arXiv](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/yourrepo)
-
-3. **Cai J.**, et al. (2021).  
-   *Communication-Efficient Federated Learning via Pruning*  
-   📍 AAAI Conference on Artificial Intelligence  
-
+## 📚 Publications
+1. **Jiewang Cai,  Wenting Shen, and Qin Jing. (2023).  
+   *ESVFL: Efficient and secure verifiable federated learning with privacy-preserving*  
+   📍 Information Fusion  
+   [DOI](https://doi.org/10.1016/j.inffus.2024.102420) | [PDF]()
 ---
 
 ## 🛠️ Technical Stack

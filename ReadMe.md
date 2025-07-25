@@ -1,5 +1,5 @@
 
-# 🎓 Cai Jiewang, Ph.D. 
+# 🎓 Cai Jiewang. 
 <div align="center">
   <img src="./cjw.jpg" width="150" style="border-radius: 50%; border: 5px solid #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>

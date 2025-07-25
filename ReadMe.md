@@ -16,14 +16,8 @@
 **Primary Field**:  
 🔹 Federated Learning  
 
-**Methodologies**:  
-🛡️ Differential Privacy  
-🔒 Secure Multi-party Computation  
-✂️ Model Compression  
-
 **Applications**:  
-🏥 Healthcare Analytics  
-💵 Financial Risk Prediction  
+🏥 Privacy-preserving  
 📱 Edge Computing  
 
 ---

@@ -22,25 +22,9 @@
 ---
 
 ## 📚 Publications
-1. **Jiewang Cai,  Wenting Shen, and Qin Jing. (2023).  
+1. **Jiewang Cai,  Wenting Shen, and Qin Jing. (2024).**  
    *ESVFL: Efficient and secure verifiable federated learning with privacy-preserving*  
    📍 Information Fusion  
-   [DOI](https://doi.org/10.1016/j.inffus.2024.102420) | [PDF]()
----
-
-## 🛠️ Technical Stack
-`Python` `PyTorch` `TensorFlow` `MPI` `Docker`  
-`Linux` `Spark` `SQL` `LaTeX` `Git`
+   [DOI](https://doi.org/10.1016/j.inffus.2024.102420) 
 
 ---
-
-## 💻 Open Science
-- 🚀 Core developer of [OpenFed](https://github.com/openfed) framework  
-- 📦 Maintain [FedBenchmark](https://github.com/fedbenchmark) evaluation suite  
-- 👨‍💻 Contributed to [FedML](https://github.com/FedML-AI/FedML)  
-
----
-
-<div align="center">
-  <sub>🔄 Last update: July 2024 | 👀 Visitors: ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)</sub>
-</div>
